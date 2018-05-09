@@ -1,0 +1,1 @@
+# Sparta-Global-Ruby-User-Resource
